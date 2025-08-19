@@ -51,7 +51,7 @@ const AboutDevContent: React.FC<AboutDevContentProps> = ({ onClose }) => {
           <a href="https://github.com" target="_blank" rel="noopener noreferrer" className="flex items-center justify-center gap-2 w-full max-w-xs bg-white/80 font-bold py-2.5 px-4 rounded-full hover:bg-pink-100 transition-all shadow-md transform hover:scale-105">
             🐱 {t.aboutGithubButton}
           </a>
-          <a href="https://instagram.com" target="_blank" rel="noopener noreferrer" className="flex items-center justify-center gap-2 w-full max-w-xs bg-white/80 font-bold py-2.5 px-4 rounded-full hover:bg-pink-100 transition-all shadow-md transform hover:scale-105">
+          <a href="https://www.instagram.com/bosslyxx_2006?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==://instagram.com" target="_blank" rel="noopener noreferrer" className="flex items-center justify-center gap-2 w-full max-w-xs bg-white/80 font-bold py-2.5 px-4 rounded-full hover:bg-pink-100 transition-all shadow-md transform hover:scale-105">
             📸 {t.aboutInstagramButton}
           </a>
           <button onClick={handleCopyEmail} className="flex items-center justify-center gap-2 w-full max-w-xs bg-white/80 font-bold py-2.5 px-4 rounded-full hover:bg-pink-100 transition-all shadow-md transform hover:scale-105">
