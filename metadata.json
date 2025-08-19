@@ -1,0 +1,7 @@
+{
+  "name": "KiraKira Snap",
+  "description": "An online, client-side photo booth application that allows users to capture, customize, and download photo strips. All processing happens in the browser, ensuring user privacy.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
